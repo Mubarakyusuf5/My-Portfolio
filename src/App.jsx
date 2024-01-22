@@ -16,7 +16,6 @@ export default function App(){
     </div>
     <About />
     <Educaion />
-    <Skill />
     <Service />
     <Footer />
     </>

@@ -3,8 +3,9 @@ import Edcard from "./Edcard";
 export default function Educaion() {
     return(
         <>
-        <div className="ed">
+        <div className="ed" id="education">
             <h2>Education</h2>
+            <div className="line"></div>
             <div className="grid">
                 <Edcard schl="Al Qalam University, Katsina" course="Bs.c Software Engineering" year="2022-2025" />
                 <Edcard schl="School Of Basic And Remedial Studies, Funtua" course="Remedial Result" year="2021"/>
