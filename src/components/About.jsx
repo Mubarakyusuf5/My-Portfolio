@@ -8,7 +8,7 @@ export default function About(){
             </div>
             <div className="content1">
                 <h2>About Me</h2>
-                <div className="line"></div>
+                <div className="line abt"></div>
                 <p>Hello, I’m Mubarak Yusuf, a Web-developer and Software-engineer based in Nigeria. I have rich experience in web site design & building and customization. Also I am good at
                 </p>
                     <div className="code">

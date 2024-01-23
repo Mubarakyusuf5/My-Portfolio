@@ -4,7 +4,7 @@ import Footer from './components/Footer'
 import Front from './components/Front'
 import Nav from './components/Nav'
 import Service from './components/Service'
-import Skill from './components/Skill'
+import Contact from './components/Contact'
 
 
 export default function App(){
@@ -17,6 +17,7 @@ export default function App(){
     <About />
     <Educaion />
     <Service />
+    <Contact />
     <Footer />
     </>
   )
